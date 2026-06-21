@@ -21,7 +21,7 @@ const Hero = () => {
                     Full Stack Developer
                 </h2>
                 <p className='text-lg text-gray-300 mb-8'>
-                    I create  stunning web experiences with modern technologies and innovative design.
+                    Passionate Full Stack Developer specializing in React.js, Node.js, Express.js , MongoDB and modern web technologies. I build scalable, user-friendly applications that solve real-world problems.
                 </p>
 
                 <div className='flex space-x-4'>

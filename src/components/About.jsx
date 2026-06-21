@@ -49,7 +49,7 @@ const About = () => {
                         </p>
 
                         <p className='text-gray-300 mb-12'>
-                        I working on the MERN stack, building responsive interfaces with React and developing robust backend services using Node.js, Express.js, and MongoDB. Through internships and personal projects, I have strengthened my skills in application development, API integration, database management, and modern web technologies while continuously learning and adapting to new challenges.
+                        I am specializing in the MERN stack, building responsive interfaces with React and developing robust backend services using Node.js, Express.js, and MongoDB. Through internships and personal projects, I have strengthened my skills in application development, API integration, database management, and modern web technologies while continuously learning and adapting to new challenges.
                         </p>
 
                         {/* Cards */}

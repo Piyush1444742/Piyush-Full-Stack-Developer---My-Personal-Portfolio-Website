@@ -20,7 +20,7 @@ const Projects = () => {
                 <span className='text-purple'>Projects</span>
             </h2>
             <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>
-                A selection of my recent work
+                Featured projects showcasing my expertise in full-stack development, problem-solving, and modern web technologies.
             </p>
 
                 {/* Cards */}

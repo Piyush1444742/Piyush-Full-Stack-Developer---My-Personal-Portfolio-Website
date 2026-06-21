@@ -17,7 +17,7 @@ const Contact = () => {
                     <span className='text-purple'>Touch</span>
                 </h2>
                 <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>
-                    Have a project in mind or want to collaborate? Let's talk!
+                    Interested in working together, discussing opportunities, or building innovative solutions? Feel free to reach out.
                 </p>
 
                 <div className='grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-5xl mx-auto'>

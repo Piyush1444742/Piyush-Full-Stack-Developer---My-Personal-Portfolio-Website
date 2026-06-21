@@ -18,7 +18,7 @@ const Work = () => {
                     <span className='text-purple'>Experience</span>
                 </h2>
                 <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>
-                    My Professional journey so far
+                    My internship experience and professional development journey in software engineering.
                 </p>
 
                 <div className='max-w-3xl mx-auto'>
