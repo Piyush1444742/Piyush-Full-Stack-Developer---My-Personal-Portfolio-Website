@@ -1,12 +1,15 @@
 import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot, FaPython } from 'react-icons/fa';
 
 import profileImg from '../assets/profile.avif';
-import projectImg1 from '../assets/project1.avif';
-import projectImg7 from '../assets/project9.avif';
-import projectImg8 from '../assets/project11.avif';
+import projectImg1 from '../assets/ecom.avif';
+import projectImg7 from '../assets/portfolio.avif';
+import projectImg8 from '../assets/buddy.avif';
 
 export const assets = {
     profileImg,
+    projectImg1,
+    projectImg7,
+    projectImg8
 }
 
 
@@ -71,8 +74,8 @@ export const projects = [
     image: projectImg7,
     tech: ["React.js", "Tailwind CSS", "Framer Motion"],
     icons: [FaReact, FaCloud],
-    demo: "#",
-    code: "#",
+    demo: "https://piyush-tupat-portfolio.vercel.app/",
+    code: "https://github.com/Piyush1444742",
   },
   {
     title: "BuddyPay – Future of Teen Finance",
@@ -81,7 +84,7 @@ export const projects = [
     tech: ["React.js", "Django", "Django REST Framework", "SQLite", "Groq AI", "Tailwind CSS"],
     icons: [FaReact, FaPython, FaRobot],
     demo: "#",
-    code: "#",
+    code: "https://github.com/Piyush1444742",
   },
   {
     title: "E-Commerce Platform",
@@ -90,7 +93,7 @@ export const projects = [
     tech: ["React", "Node.js", "MongoDB", "Stripe"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
     demo: "#",
-    code: "#",
+    code: "https://github.com/Piyush1444742",
   },
 ];
 
